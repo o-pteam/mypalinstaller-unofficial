@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Logo.png" width="256" height="256" />
+    <img src="Mypal.png" width="256" height="256" />
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Inno%20-Setup-blue" />
