@@ -1,4 +1,14 @@
-<h1>Welcome on Mypal Unofficial Setup!</h1>
-<h2><strong>This is a project to install the browser Mypal with a setup!</strong></h2>
-<h3><strong>Try it!</strong></h3>
-(Mypal's owner is Feodor2)
+<p align="center">
+    <img src="Logo.png" width="256" height="256" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Inno%20-Setup-blue" />
+    <img src="https://img.shields.io/badge/License-GPLv3-brightgreen" />
+
+# 💬 Mypal Unofficial
+This is a project to install the new browser Mypal with a setup
+
+# 📌 Information
+- Setup made with InnoSetup
+- Mypal's Owner is Feodor2
+
